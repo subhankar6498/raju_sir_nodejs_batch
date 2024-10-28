@@ -7,6 +7,7 @@
     ==> CRUD Operation with API as well as EJS. Also Discuss Soft_Delete and Hard_Delete Concept
     ==> File Upload using Multer. Discuss Sinle File Upload as well as multiple file upload
     ==> Joi validation
+    ==> Slugify
     ==> Authentication with JWT (Registration, Login, Protected Dashboard, update password, reset password and Forget password)
     ==> Email Verification using Nodemailer ( Registration with email verifcation and forget password with email verification)
     ==> CSV File Upload
