@@ -1,19 +1,19 @@
 # Topic Discussion :
 
-    1. Creating Server with Express.js
-    2. MVC Architechture
-    3. Implement EJS Template Engine with Express.js
-    4. Convert HTML Template into EJS
-    5. CRUD Operation with API as well as EJS. Also Discuss Soft_Delete and Hard_Delete Concept
-    6. File Upload using Multer. Discuss Sinle File Upload as well as multiple file upload
-    7. Joi validation
-    8. Authentication with JWT (Registration, Login, Protected Dashboard, update password, reset password and Forget password)
-    9. Email Verification using Nodemailer ( Registration with email verifcation and forget password with email verification)
-    10. CSV File Upload
-    11. Role-based Authentication
-    12. Role-based Access Permission
-    13. Mongodb Operators
-    14. Mongodb Aggregation ...--> continue now
+    ==> Creating Server with Express.js
+    ==> MVC Architechture
+    ==> Implement EJS Template Engine with Express.js
+    ==> Convert HTML Template into EJS
+    ==> CRUD Operation with API as well as EJS. Also Discuss Soft_Delete and Hard_Delete Concept
+    ==> File Upload using Multer. Discuss Sinle File Upload as well as multiple file upload
+    ==> Joi validation
+    ==> Authentication with JWT (Registration, Login, Protected Dashboard, update password, reset password and Forget password)
+    ==> Email Verification using Nodemailer ( Registration with email verifcation and forget password with email verification)
+    ==> CSV File Upload
+    ==> Role-based Authentication
+    ==> Role-based Access Permission
+    ==> Mongodb Operators
+    ==> Mongodb Aggregation ...--> continue now
 
 # Task :
 
